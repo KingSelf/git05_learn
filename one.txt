@@ -1,2 +1,2 @@
-The firs sentence in the first file.
+The first sentence in the first file.
 add the second sentence to first file.
