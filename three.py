@@ -14,6 +14,7 @@
 
 def main():
     print("I am a python file.")
+    print("I want to good at github")
 
 
 if __name__ == "__main__":
